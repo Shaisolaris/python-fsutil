@@ -96,7 +96,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -125,3 +124,5 @@ dmypy.json
 # custom
 TODO.txt
 test-coverage.sh
+config.bat
+node_modules

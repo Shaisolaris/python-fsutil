@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import utils.session
 from fsutil.archives import (
     create_tar_file,
     create_zip_file,
